@@ -5,7 +5,7 @@
 ¹ Department of Mechanical Engineering, Yonsei University
 ² School of Electrical and Computer Engineering, Purdue University
 
-[Paper](PAPER_LINK) | [Dataset](DROPBOX_LINK)
+[Paper](PAPER_LINK) | [Dataset](https://www.dropbox.com/scl/fo/tj2zz3168nunw0zwm4a3r/AD_V8ZW130B8rNeGu5qGFak?rlkey=gm9e176947185c2djo9gbqli4&st=ust96qvy&dl=0)
 
 ## Overview
 
@@ -21,11 +21,11 @@ The resulting framework combines global multi-view unwrapping information with l
 
 Our newly constructed synthetic dataset was generated in Blender using **6,300 diverse 3D object models** under a calibrated four-camera and one-projector configuration. It covers a wide range of object geometries and surface appearances for training and evaluating multi-view phase unwrapping methods.
 
-[**Download Dataset**](DROPBOX_LINK)
+[**Download Dataset**](https://www.dropbox.com/scl/fo/tj2zz3168nunw0zwm4a3r/AD_V8ZW130B8rNeGu5qGFak?rlkey=gm9e176947185c2djo9gbqli4&st=ust96qvy&dl=0)
 
 ### Representative Samples in the Dataset
 
-![Representative dataset samples](asset/dataset_examples.png)
+![Representative dataset samples](asset/dataset_example.png)
 
 ## Results
 
