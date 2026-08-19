@@ -9,7 +9,7 @@
 
 ## Overview
 
-![Graphical abstract](assets/Graphical_Abstract.png)
+![Graphical abstract](asset/Graphical_Abstract.png)
 
 We present a learning-based single-projection multi-view phase unwrapping method for fringe projection profilometry. Four synchronized cameras capture a single projected sinusoidal fringe pattern.
 
@@ -25,13 +25,13 @@ Our newly constructed synthetic dataset was generated in Blender using **6,300 d
 
 ### Representative Samples in the Dataset
 
-![Representative dataset samples](assets/dataset_examples.png)
+![Representative dataset samples](asset/dataset_examples.png)
 
 ## Results
 
 Representative qualitative results are shown below. Our method compares favorably with conventional multi-view phase unwrapping and learning-based multi-view stereo methods adapted to the fringe-phase task.
 
-![Qualitative results](assets/result.png)
+![Qualitative results](asset/result.png)
 
 ## Citation
 
